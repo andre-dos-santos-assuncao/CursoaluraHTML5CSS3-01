@@ -7,16 +7,17 @@ p {
     width: 100%;
 }
 
-h1 {
+.titulocen {
     text-align: center;
 }
 
 .principal {
     background: #cccccc;
+    padding: 30px;
 }
 
-body {
-    
+.titulopri {
+    padding-left: 20px;
 }
 
 em strong{
@@ -33,8 +34,17 @@ em strong{
 
 .beneficios {
     background-color: #ffffff;
+    padding: 20%;
 }
 
-h2 {
-    text-align: center;
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembe {
+    width: 50%;
 }
